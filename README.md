@@ -8,8 +8,6 @@ An AI-powered Python learning platform built with Streamlit.
 - 💻 Interactive Code Practice
 - 🐞 Debugging Challenges
 - 🧠 Python Quizzes
-- 🏆 Certificate Generator
-- 🔐 Login System
 - 📊 Learning Dashboard
 
 ## Tech Stack
